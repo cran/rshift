@@ -1,6 +1,6 @@
-1d013c8bccafa8953cb8742cd367d0ee *DESCRIPTION
+71b21a667c0acdeb088d030927e2e763 *DESCRIPTION
 df7d9cd96e743cdd985e8c727837fdf5 *LICENSE
-58cfb950588ff039b7bb86a70a235000 *LICENSE.note
+13ba14b45b1241ff52ddb4b62d49be4f *LICENSE.note
 ee00ce77ae5743c6a7134ad5af8baa22 *NAMESPACE
 f59aee1f94dcf89bc8c12b2d6c4ff3e3 *R/Hellinger_trans.R
 9b1cc709ca6d7bdd022e82feb8c4d351 *R/January_PDO.R
@@ -18,10 +18,10 @@ ecd833a1a570fc42fcf9d5b20b64e6e0 *R/lake_data.R
 210cf35e645b7c748568998311edd652 *data/January_PDO.rda
 5b56631296ed5afed339602dc5d0477d *data/lake_RSI.rda
 6a7e3276257e33d8dde031a6f1a59afb *data/lake_data.rda
-ca4f3bd6bcfbf429c370d179f45cfc8a *inst/AUTHORS
+aef93d3782223c0180b2c35526ff70be *inst/AUTHORS
 fca5e95b47c836d5436fa4b20ca4ca49 *inst/CITATION
 6e478ac107991a7762b256e5ed8b90ce *inst/doc/STARSmanual.ltx
-19bc770f399d28afcda0a07ef4e7628a *inst/doc/STARSmanual.pdf
+1a56f17dec40a195a5b2ecdffa42d780 *inst/doc/STARSmanual.pdf
 93846e9c326301daf7ba01a83d4f1b11 *man/Hellinger_trans.Rd
 3a9ea1f0dd5646c9486019a3060670fa *man/January_PDO.Rd
 e6fa2c42258f181728e1d14954dde761 *man/Lanzante.Rd
@@ -37,11 +37,11 @@ ba6c5f7590f07af19378321ff5237bd4 *man/rust_regime_means.Rd
 f9b4d71515d099f022db176b5b636e2a *src/Makevars
 c0d6b9f9604ac277e8851d4d1ed72d62 *src/Makevars.win
 956a59f45ec296041fbbce2e46bb4105 *src/entrypoint.c
-69e17c68176de3fef2ec0d8e94860c42 *src/rust/Cargo.toml
+c3e3ea301b0a92a9e79cff25de1c6fdb *src/rust/Cargo.toml
 d4c7febd30951f7fbd584476dbb2dd70 *src/rust/cargo_vendor_config.toml
 54b140be995e90d9ec8c97a2e236f2fc *src/rust/src/lib.rs
 667d4e574e3a8e6604b454ef3546faf0 *src/rust/vendor.sh
-0200de6664c3176f24d78a2fb1221018 *src/rust/vendor.tar.xz
+aef4f23d63bb534214d6ecfcbbb5c34e *src/rust/vendor.tar.xz
 57e2da8b109fae996d1e5f20b83693f0 *vignettes/Rodionov_graph.png
 6e478ac107991a7762b256e5ed8b90ce *vignettes/STARSmanual.ltx
 b4736689dcbd2b9d8266faed8b50835b *vignettes/bibliography.bib
